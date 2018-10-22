@@ -13,7 +13,7 @@ Następnym etapem rozwoju aplikacji będzie dodanie funkcji do zarządzania firm
 
 ## O nas
 ### Dawid Pera
-### Kondratek Półciennik
+### Konrad Płóciennik
 
 #### Przypisy:
 <sup>1</sup> - funkcja dostępna w przyszłości
