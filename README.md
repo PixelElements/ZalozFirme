@@ -11,6 +11,9 @@ Załóż firmę to jedyna na polskim rynku aplikacja, która pomaga na rozpoczą
 ## Co dalej?
 Następnym etapem rozwoju aplikacji będzie dodanie funkcji do zarządzania firmą. Mając już dostęp do takich rzeczy jak lista hurtowni, baza surowców, itp. możemy w prosty sposób dodać funkcje, które pomogą w zarządzaniu transportem, marketigniem (poprzez zlecanie materiałów reklamowych, stron internetowych, itp.).
 
+## Działanie aplikacji
+Aplikacja wykorzystuje API Google Maps<sup>1</sup>, KRS<sup>1</sup> i CEIDG<sup>1</sup> do przeszukiwania i nakładania na mapę działalności z danej kategorii w danym promieniu lub wyszukiwania brakujących działalności w okolicy.
+
 ## O nas
 ### Dawid Pera
 ### Konrad Płóciennik
